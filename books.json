@@ -1,0 +1,1003 @@
+{ "livros": [
+    {
+      "autor": "Chinua Achebe",
+      "pais": "Nigeria",
+      "imageLink": "images/things-fall-apart.jpg",
+      "linguagem": "English",
+      "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
+      "paginas": 209,
+      "titulo": "Things Fall Apart",
+      "ano": 1958
+    },
+    {
+      "autor": "Hans Christian Andersen",
+      "pais": "Denmark",
+      "imageLink": "images/fairy-tales.jpg",
+      "linguagem": "Danish",
+      "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.\n",
+      "paginas": 784,
+      "titulo": "Fairy tales",
+      "ano": 1836
+    },
+    {
+      "autor": "Dante Alighieri",
+      "pais": "Italy",
+      "imageLink": "images/the-divine-comedy.jpg",
+      "linguagem": "Italian",
+      "link": "https://en.wikipedia.org/wiki/Divine_Comedy\n",
+      "paginas": 928,
+      "titulo": "The Divine Comedy",
+      "ano": 1315
+    },
+    {
+      "autor": "Unknown",
+      "pais": "Sumer and Akkadian Empire",
+      "imageLink": "images/the-epic-of-gilgamesh.jpg",
+      "linguagem": "Akkadian",
+      "link": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh\n",
+      "paginas": 160,
+      "titulo": "The Epic Of Gilgamesh",
+      "ano": -1700
+    },
+    {
+      "autor": "Unknown",
+      "pais": "Achaemenid Empire",
+      "imageLink": "images/the-book-of-job.jpg",
+      "linguagem": "Hebrew",
+      "link": "https://en.wikipedia.org/wiki/Book_of_Job\n",
+      "paginas": 176,
+      "titulo": "The Book Of Job",
+      "ano": -600
+    },
+    {
+      "autor": "Unknown",
+      "pais": "India/Iran/Iraq/Egypt/Tajikistan",
+      "imageLink": "images/one-thousand-and-one-nights.jpg",
+      "linguagem": "Arabic",
+      "link": "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights\n",
+      "paginas": 288,
+      "titulo": "One Thousand and One Nights",
+      "ano": 1200
+    },
+    {
+      "autor": "Unknown",
+      "pais": "Iceland",
+      "imageLink": "images/njals-saga.jpg",
+      "linguagem": "Old Norse",
+      "link": "https://en.wikipedia.org/wiki/Nj%C3%A1ls_saga\n",
+      "paginas": 384,
+      "titulo": "Nj\u00e1l's Saga",
+      "ano": 1350
+    },
+    {
+      "autor": "Jane Austen",
+      "pais": "United Kingdom",
+      "imageLink": "images/pride-and-prejudice.jpg",
+      "linguagem": "English",
+      "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice\n",
+      "paginas": 226,
+      "titulo": "Pride and Prejudice",
+      "ano": 1813
+    },
+    {
+      "autor": "Honor\u00e9 de Balzac",
+      "pais": "France",
+      "imageLink": "images/le-pere-goriot.jpg",
+      "linguagem": "French",
+      "link": "https://en.wikipedia.org/wiki/Le_P%C3%A8re_Goriot\n",
+      "paginas": 443,
+      "titulo": "Le P\u00e8re Goriot",
+      "ano": 1835
+    },
+    {
+      "autor": "Samuel Beckett",
+      "pais": "Republic of Ireland",
+      "imageLink": "images/molloy-malone-dies-the-unnamable.jpg",
+      "linguagem": "French, English",
+      "link": "https://en.wikipedia.org/wiki/Molloy_(novel)\n",
+      "paginas": 256,
+      "titulo": "Molloy, Malone Dies, The Unnamable, the trilogy",
+      "ano": 1952
+    },
+    {
+      "autor": "Giovanni Boccaccio",
+      "pais": "Italy",
+      "imageLink": "images/the-decameron.jpg",
+      "linguagem": "Italian",
+      "link": "https://en.wikipedia.org/wiki/The_Decameron\n",
+      "paginas": 1024,
+      "titulo": "The Decameron",
+      "ano": 1351
+    },
+    {
+      "autor": "Jorge Luis Borges",
+      "pais": "Argentina",
+      "imageLink": "images/ficciones.jpg",
+      "linguagem": "Spanish",
+      "link": "https://en.wikipedia.org/wiki/Ficciones\n",
+      "paginas": 224,
+      "titulo": "Ficciones",
+      "ano": 1965
+    },
+    {
+      "autor": "Emily Bront\u00eb",
+      "pais": "United Kingdom",
+      "imageLink": "images/wuthering-heights.jpg",
+      "linguagem": "English",
+      "link": "https://en.wikipedia.org/wiki/Wuthering_Heights\n",
+      "paginas": 342,
+      "titulo": "Wuthering Heights",
+      "ano": 1847
+    },
+    {
+      "autor": "Albert Camus",
+      "pais": "Algeria, French Empire",
+      "imageLink": "images/l-etranger.jpg",
+      "linguagem": "French",
+      "link": "https://en.wikipedia.org/wiki/The_Stranger_(novel)\n",
+      "paginas": 185,
+      "titulo": "The Stranger",
+      "ano": 1942
+    },
+    {
+      "autor": "Paul Celan",
+      "pais": "Romania, France",
+      "imageLink": "images/poems-paul-celan.jpg",
+      "linguagem": "German",
+      "link": "\n",
+      "paginas": 320,
+      "titulo": "Poems",
+      "ano": 1952
+    },
+    {
+      "autor": "Louis-Ferdinand C\u00e9line",
+      "pais": "France",
+      "imageLink": "images/voyage-au-bout-de-la-nuit.jpg",
+      "linguagem": "French",
+      "link": "https://en.wikipedia.org/wiki/Journey_to_the_End_of_the_Night\n",
+      "paginas": 505,
+      "titulo": "Journey to the End of the Night",
+      "ano": 1932
+    },
+    {
+      "autor": "Miguel de Cervantes",
+      "pais": "Spain",
+      "imageLink": "images/don-quijote-de-la-mancha.jpg",
+      "linguagem": "Spanish",
+      "link": "https://en.wikipedia.org/wiki/Don_Quixote\n",
+      "paginas": 1056,
+      "titulo": "Don Quijote De La Mancha",
+      "ano": 1610
+    },
+    {
+      "autor": "Geoffrey Chaucer",
+      "pais": "England",
+      "imageLink": "images/the-canterbury-tales.jpg",
+      "linguagem": "English",
+      "link": "https://en.wikipedia.org/wiki/The_Canterbury_Tales\n",
+      "paginas": 544,
+      "titulo": "The Canterbury Tales",
+      "ano": 1450
+    },
+    {
+      "autor": "Anton Chekhov",
+      "pais": "Russia",
+      "imageLink": "images/stories-of-anton-chekhov.jpg",
+      "linguagem": "Russian",
+      "link": "https://en.wikipedia.org/wiki/List_of_short_stories_by_Anton_Chekhov\n",
+      "paginas": 194,
+      "titulo": "Stories",
+      "ano": 1886
+    },
+    {
+      "autor": "Joseph Conrad",
+      "pais": "United Kingdom",
+      "imageLink": "images/nostromo.jpg",
+      "linguagem": "English",
+      "link": "https://en.wikipedia.org/wiki/Nostromo\n",
+      "paginas": 320,
+      "titulo": "Nostromo",
+      "ano": 1904
+    },
+    {
+      "autor": "Charles Dickens",
+      "pais": "United Kingdom",
+      "imageLink": "images/great-expectations.jpg",
+      "linguagem": "English",
+      "link": "https://en.wikipedia.org/wiki/Great_Expectations\n",
+      "paginas": 194,
+      "titulo": "Great Expectations",
+      "ano": 1861
+    },
+    {
+      "autor": "Denis Diderot",
+      "pais": "France",
+      "imageLink": "images/jacques-the-fatalist.jpg",
+      "linguagem": "French",
+      "link": "https://en.wikipedia.org/wiki/Jacques_the_Fatalist\n",
+      "paginas": 596,
+      "titulo": "Jacques the Fatalist",
+      "ano": 1796
+    },
+    {
+      "autor": "Alfred D\u00f6blin",
+      "pais": "Germany",
+      "imageLink": "images/berlin-alexanderplatz.jpg",
+      "linguagem": "German",
+      "link": "https://en.wikipedia.org/wiki/Berlin_Alexanderplatz\n",
+      "paginas": 600,
+      "titulo": "Berlin Alexanderplatz",
+      "ano": 1929
+    },
+    {
+      "autor": "Fyodor Dostoevsky",
+      "pais": "Russia",
+      "imageLink": "images/crime-and-punishment.jpg",
+      "linguagem": "Russian",
+      "link": "https://en.wikipedia.org/wiki/Crime_and_Punishment\n",
+      "paginas": 551,
+      "titulo": "Crime and Punishment",
+      "ano": 1866
+    },
+    {
+      "autor": "Fyodor Dostoevsky",
+      "pais": "Russia",
+      "imageLink": "images/the-idiot.jpg",
+      "linguagem": "Russian",
+      "link": "https://en.wikipedia.org/wiki/The_Idiot\n",
+      "paginas": 656,
+      "titulo": "The Idiot",
+      "ano": 1869
+    },
+    {
+      "autor": "Fyodor Dostoevsky",
+      "pais": "Russia",
+      "imageLink": "images/the-possessed.jpg",
+      "linguagem": "Russian",
+      "link": "https://en.wikipedia.org/wiki/Demons_(Dostoyevsky_novel)\n",
+      "paginas": 768,
+      "titulo": "The Possessed",
+      "ano": 1872
+    },
+    {
+      "autor": "Fyodor Dostoevsky",
+      "pais": "Russia",
+      "imageLink": "images/the-brothers-karamazov.jpg",
+      "linguagem": "Russian",
+      "link": "https://en.wikipedia.org/wiki/The_Brothers_Karamazov\n",
+      "paginas": 824,
+      "titulo": "The Brothers Karamazov",
+      "ano": 1880
+    },
+    {
+      "autor": "George Eliot",
+      "pais": "United Kingdom",
+      "imageLink": "images/middlemarch.jpg",
+      "linguagem": "English",
+      "link": "https://en.wikipedia.org/wiki/Middlemarch\n",
+      "paginas": 800,
+      "titulo": "Middlemarch",
+      "ano": 1871
+    },
+    {
+      "autor": "Ralph Ellison",
+      "pais": "United States",
+      "imageLink": "images/invisible-man.jpg",
+      "linguagem": "English",
+      "link": "https://en.wikipedia.org/wiki/Invisible_Man\n",
+      "paginas": 581,
+      "titulo": "Invisible Man",
+      "ano": 1952
+    },
+    {
+      "autor": "Euripides",
+      "pais": "Greece",
+      "imageLink": "images/medea.jpg",
+      "linguagem": "Greek",
+      "link": "https://en.wikipedia.org/wiki/Medea_(play)\n",
+      "paginas": 104,
+      "titulo": "Medea",
+      "ano": -431
+    },
+    {
+      "autor": "William Faulkner",
+      "pais": "United States",
+      "imageLink": "images/absalom-absalom.jpg",
+      "linguagem": "English",
+      "link": "https://en.wikipedia.org/wiki/Absalom,_Absalom!\n",
+      "paginas": 313,
+      "titulo": "Absalom, Absalom!",
+      "ano": 1936
+    },
+    {
+      "autor": "William Faulkner",
+      "pais": "United States",
+      "imageLink": "images/the-sound-and-the-fury.jpg",
+      "linguagem": "English",
+      "link": "https://en.wikipedia.org/wiki/The_Sound_and_the_Fury\n",
+      "paginas": 326,
+      "titulo": "The Sound and the Fury",
+      "ano": 1929
+    },
+    {
+      "autor": "Gustave Flaubert",
+      "pais": "France",
+      "imageLink": "images/madame-bovary.jpg",
+      "linguagem": "French",
+      "link": "https://en.wikipedia.org/wiki/Madame_Bovary\n",
+      "paginas": 528,
+      "titulo": "Madame Bovary",
+      "ano": 1857
+    },
+    {
+      "autor": "Gustave Flaubert",
+      "pais": "France",
+      "imageLink": "images/l-education-sentimentale.jpg",
+      "linguagem": "French",
+      "link": "https://en.wikipedia.org/wiki/Sentimental_Education\n",
+      "paginas": 606,
+      "titulo": "Sentimental Education",
+      "ano": 1869
+    },
+    {
+      "autor": "Federico Garc\u00eda Lorca",
+      "pais": "Spain",
+      "imageLink": "images/gypsy-ballads.jpg",
+      "linguagem": "Spanish",
+      "link": "https://en.wikipedia.org/wiki/Gypsy_Ballads\n",
+      "paginas": 218,
+      "titulo": "Gypsy Ballads",
+      "ano": 1928
+    },
+    {
+      "autor": "Gabriel Garc\u00eda M\u00e1rquez",
+      "pais": "Colombia",
+      "imageLink": "images/one-hundred-anos-of-solitude.jpg",
+      "linguagem": "Spanish",
+      "link": "https://en.wikipedia.org/wiki/One_Hundred_anos_of_Solitude\n",
+      "paginas": 417,
+      "titulo": "One Hundred anos of Solitude",
+      "ano": 1967
+    },
+    {
+      "autor": "Gabriel Garc\u00eda M\u00e1rquez",
+      "pais": "Colombia",
+      "imageLink": "images/love-in-the-time-of-cholera.jpg",
+      "linguagem": "Spanish",
+      "link": "https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera\n",
+      "paginas": 368,
+      "titulo": "Love in the Time of Cholera",
+      "ano": 1985
+    },
+    {
+      "autor": "Johann Wolfgang von Goethe",
+      "pais": "Saxe-Weimar",
+      "imageLink": "images/faust.jpg",
+      "linguagem": "German",
+      "link": "https://en.wikipedia.org/wiki/Goethe%27s_Faust\n",
+      "paginas": 158,
+      "titulo": "Faust",
+      "ano": 1832
+    },
+    {
+      "autor": "Nikolai Gogol",
+      "pais": "Russia",
+      "imageLink": "images/dead-souls.jpg",
+      "linguagem": "Russian",
+      "link": "https://en.wikipedia.org/wiki/Dead_Souls\n",
+      "paginas": 432,
+      "titulo": "Dead Souls",
+      "ano": 1842
+    },
+    {
+      "autor": "G\u00fcnter Grass",
+      "pais": "Germany",
+      "imageLink": "images/the-tin-drum.jpg",
+      "linguagem": "German",
+      "link": "https://en.wikipedia.org/wiki/The_Tin_Drum\n",
+      "paginas": 600,
+      "titulo": "The Tin Drum",
+      "ano": 1959
+    },
+    {
+      "autor": "Jo\u00e3o Guimar\u00e3es Rosa",
+      "pais": "Brazil",
+      "imageLink": "images/the-devil-to-pay-in-the-backlands.jpg",
+      "linguagem": "Portuguese",
+      "link": "https://en.wikipedia.org/wiki/The_Devil_to_Pay_in_the_Backlands\n",
+      "paginas": 494,
+      "titulo": "The Devil to Pay in the Backlands",
+      "ano": 1956
+    },
+    {
+      "autor": "Knut Hamsun",
+      "pais": "Norway",
+      "imageLink": "images/hunger.jpg",
+      "linguagem": "Norwegian",
+      "link": "https://en.wikipedia.org/wiki/Hunger_(Hamsun_novel)\n",
+      "paginas": 176,
+      "titulo": "Hunger",
+      "ano": 1890
+    },
+    {
+      "autor": "Ernest Hemingway",
+      "pais": "United States",
+      "imageLink": "images/the-old-man-and-the-sea.jpg",
+      "linguagem": "English",
+      "link": "https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea\n",
+      "paginas": 128,
+      "titulo": "The Old Man and the Sea",
+      "ano": 1952
+    },
+    {
+      "autor": "Homer",
+      "pais": "Greece",
+      "imageLink": "images/the-iliad-of-homer.jpg",
+      "linguagem": "Greek",
+      "link": "https://en.wikipedia.org/wiki/Iliad\n",
+      "paginas": 608,
+      "titulo": "Iliad",
+      "ano": -735
+    },
+    {
+      "autor": "Homer",
+      "pais": "Greece",
+      "imageLink": "images/the-odyssey-of-homer.jpg",
+      "linguagem": "Greek",
+      "link": "https://en.wikipedia.org/wiki/Odyssey\n",
+      "paginas": 374,
+      "titulo": "Odyssey",
+      "ano": -800
+    },
+    {
+      "autor": "Henrik Ibsen",
+      "pais": "Norway",
+      "imageLink": "images/a-Dolls-house.jpg",
+      "linguagem": "Norwegian",
+      "link": "https://en.wikipedia.org/wiki/A_Doll%27s_House\n",
+      "paginas": 68,
+      "titulo": "A Doll's House",
+      "ano": 1879
+    },
+    {
+      "autor": "James Joyce",
+      "pais": "Irish Free State",
+      "imageLink": "images/ulysses.jpg",
+      "linguagem": "English",
+      "link": "https://en.wikipedia.org/wiki/Ulysses_(novel)\n",
+      "paginas": 228,
+      "titulo": "Ulysses",
+      "ano": 1922
+    },
+    {
+      "autor": "Franz Kafka",
+      "pais": "Czechoslovakia",
+      "imageLink": "images/stories-of-franz-kafka.jpg",
+      "linguagem": "German",
+      "link": "https://en.wikipedia.org/wiki/Franz_Kafka_bibliography#Short_stories\n",
+      "paginas": 488,
+      "titulo": "Stories",
+      "ano": 1924
+    },
+    {
+      "autor": "Franz Kafka",
+      "pais": "Czechoslovakia",
+      "imageLink": "images/the-trial.jpg",
+      "linguagem": "German",
+      "link": "https://en.wikipedia.org/wiki/The_Trial\n",
+      "paginas": 160,
+      "titulo": "The Trial",
+      "ano": 1925
+    },
+    {
+      "autor": "Franz Kafka",
+      "pais": "Czechoslovakia",
+      "imageLink": "images/the-castle.jpg",
+      "linguagem": "German",
+      "link": "https://en.wikipedia.org/wiki/The_Castle_(novel)\n",
+      "paginas": 352,
+      "titulo": "The Castle",
+      "ano": 1926
+    },
+    {
+      "autor": "K\u0101lid\u0101sa",
+      "pais": "India",
+      "imageLink": "images/the-recognition-of-shakuntala.jpg",
+      "linguagem": "Sanskrit",
+      "link": "https://en.wikipedia.org/wiki/Abhij%C3%B1%C4%81na%C5%9B%C4%81kuntalam\n",
+      "paginas": 147,
+      "titulo": "The recognition of Shakuntala",
+      "ano": 150
+    },
+    {
+      "autor": "Yasunari Kawabata",
+      "pais": "Japan",
+      "imageLink": "images/the-sound-of-the-mountain.jpg",
+      "linguagem": "Japanese",
+      "link": "https://en.wikipedia.org/wiki/The_Sound_of_the_Mountain\n",
+      "paginas": 288,
+      "titulo": "The Sound of the Mountain",
+      "ano": 1954
+    },
+    {
+      "autor": "Nikos Kazantzakis",
+      "pais": "Greece",
+      "imageLink": "images/zorba-the-greek.jpg",
+      "linguagem": "Greek",
+      "link": "https://en.wikipedia.org/wiki/Zorba_the_Greek\n",
+      "paginas": 368,
+      "titulo": "Zorba the Greek",
+      "ano": 1946
+    },
+    {
+      "autor": "D. H. Lawrence",
+      "pais": "United Kingdom",
+      "imageLink": "images/sons-and-lovers.jpg",
+      "linguagem": "English",
+      "link": "https://en.wikipedia.org/wiki/Sons_and_Lovers\n",
+      "paginas": 432,
+      "titulo": "Sons and Lovers",
+      "ano": 1913
+    },
+    {
+      "autor": "Halld\u00f3r Laxness",
+      "pais": "Iceland",
+      "imageLink": "images/independent-people.jpg",
+      "linguagem": "Icelandic",
+      "link": "https://en.wikipedia.org/wiki/Independent_People\n",
+      "paginas": 470,
+      "titulo": "Independent People",
+      "ano": 1934
+    },
+    {
+      "autor": "Giacomo Leopardi",
+      "pais": "Italy",
+      "imageLink": "images/poems-giacomo-leopardi.jpg",
+      "linguagem": "Italian",
+      "link": "\n",
+      "paginas": 184,
+      "titulo": "Poems",
+      "ano": 1818
+    },
+    {
+      "autor": "Doris Lessing",
+      "pais": "United Kingdom",
+      "imageLink": "images/the-golden-notebook.jpg",
+      "linguagem": "English",
+      "link": "https://en.wikipedia.org/wiki/The_Golden_Notebook\n",
+      "paginas": 688,
+      "titulo": "The Golden Notebook",
+      "ano": 1962
+    },
+    {
+      "autor": "Astrid Lindgren",
+      "pais": "Sweden",
+      "imageLink": "images/pippi-longstocking.jpg",
+      "linguagem": "Swedish",
+      "link": "https://en.wikipedia.org/wiki/Pippi_Longstocking\n",
+      "paginas": 160,
+      "titulo": "Pippi Longstocking",
+      "ano": 1945
+    },
+    {
+      "autor": "Lu Xun",
+      "pais": "China",
+      "imageLink": "images/diary-of-a-madman.jpg",
+      "linguagem": "Chinese",
+      "link": "https://en.wikipedia.org/wiki/A_Madman%27s_Diary\n",
+      "paginas": 389,
+      "titulo": "Diary of a Madman",
+      "ano": 1918
+    },
+    {
+      "autor": "Naguib Mahfouz",
+      "pais": "Egypt",
+      "imageLink": "images/children-of-gebelawi.jpg",
+      "linguagem": "Arabic",
+      "link": "https://en.wikipedia.org/wiki/Children_of_Gebelawi\n",
+      "paginas": 355,
+      "titulo": "Children of Gebelawi",
+      "ano": 1959
+    },
+    {
+      "autor": "Thomas Mann",
+      "pais": "Germany",
+      "imageLink": "images/buddenbrooks.jpg",
+      "linguagem": "German",
+      "link": "https://en.wikipedia.org/wiki/Buddenbrooks\n",
+      "paginas": 736,
+      "titulo": "Buddenbrooks",
+      "ano": 1901
+    },
+    {
+      "autor": "Thomas Mann",
+      "pais": "Germany",
+      "imageLink": "images/the-magic-mountain.jpg",
+      "linguagem": "German",
+      "link": "https://en.wikipedia.org/wiki/The_Magic_Mountain\n",
+      "paginas": 720,
+      "titulo": "The Magic Mountain",
+      "ano": 1924
+    },
+    {
+      "autor": "Herman Melville",
+      "pais": "United States",
+      "imageLink": "images/moby-dick.jpg",
+      "linguagem": "English",
+      "link": "https://en.wikipedia.org/wiki/Moby-Dick\n",
+      "paginas": 378,
+      "titulo": "Moby Dick",
+      "ano": 1851
+    },
+    {
+      "autor": "Michel de Montaigne",
+      "pais": "France",
+      "imageLink": "images/essais.jpg",
+      "linguagem": "French",
+      "link": "https://en.wikipedia.org/wiki/Essays_(Montaigne)\n",
+      "paginas": 404,
+      "titulo": "Essays",
+      "ano": 1595
+    },
+    {
+      "autor": "Elsa Morante",
+      "pais": "Italy",
+      "imageLink": "images/history.jpg",
+      "linguagem": "Italian",
+      "link": "https://en.wikipedia.org/wiki/History_(novel)\n",
+      "paginas": 600,
+      "titulo": "History",
+      "ano": 1974
+    },
+    {
+      "autor": "Toni Morrison",
+      "pais": "United States",
+      "imageLink": "images/beloved.jpg",
+      "linguagem": "English",
+      "link": "https://en.wikipedia.org/wiki/Beloved_(novel)\n",
+      "paginas": 321,
+      "titulo": "Beloved",
+      "ano": 1987
+    },
+    {
+      "autor": "Murasaki Shikibu",
+      "pais": "Japan",
+      "imageLink": "images/the-tale-of-genji.jpg",
+      "linguagem": "Japanese",
+      "link": "https://en.wikipedia.org/wiki/The_Tale_of_Genji\n",
+      "paginas": 1360,
+      "titulo": "The Tale of Genji",
+      "ano": 1006
+    },
+    {
+      "autor": "Robert Musil",
+      "pais": "Austria",
+      "imageLink": "images/the-man-without-qualities.jpg",
+      "linguagem": "German",
+      "link": "https://en.wikipedia.org/wiki/The_Man_Without_Qualities\n",
+      "paginas": 365,
+      "titulo": "The Man Without Qualities",
+      "ano": 1931
+    },
+    {
+      "autor": "Vladimir Nabokov",
+      "pais": "Russia/United States",
+      "imageLink": "images/lolita.jpg",
+      "linguagem": "English",
+      "link": "https://en.wikipedia.org/wiki/Lolita\n",
+      "paginas": 317,
+      "titulo": "Lolita",
+      "ano": 1955
+    },
+    {
+      "autor": "George Orwell",
+      "pais": "United Kingdom",
+      "imageLink": "images/nineteen-eighty-four.jpg",
+      "linguagem": "English",
+      "link": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four\n",
+      "paginas": 272,
+      "titulo": "Nineteen Eighty-Four",
+      "ano": 1949
+    },
+    {
+      "autor": "Ovid",
+      "pais": "Roman Empire",
+      "imageLink": "images/the-metamorphoses-of-ovid.jpg",
+      "linguagem": "Classical Latin",
+      "link": "https://en.wikipedia.org/wiki/Metamorphoses\n",
+      "paginas": 576,
+      "titulo": "Metamorphoses",
+      "ano": 100
+    },
+    {
+      "autor": "Fernando Pessoa",
+      "pais": "Portugal",
+      "imageLink": "images/the-book-of-disquiet.jpg",
+      "linguagem": "Portuguese",
+      "link": "https://en.wikipedia.org/wiki/The_Book_of_Disquiet\n",
+      "paginas": 272,
+      "titulo": "The Book of Disquiet",
+      "ano": 1928
+    },
+    {
+      "autor": "Edgar Allan Poe",
+      "pais": "United States",
+      "imageLink": "images/tales-and-poems-of-edgar-allan-poe.jpg",
+      "linguagem": "English",
+      "link": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe_bibliography#Tales\n",
+      "paginas": 842,
+      "titulo": "Tales",
+      "ano": 1950
+    },
+    {
+      "autor": "Marcel Proust",
+      "pais": "France",
+      "imageLink": "images/a-la-recherche-du-temps-perdu.jpg",
+      "linguagem": "French",
+      "link": "https://en.wikipedia.org/wiki/In_Search_of_Lost_Time\n",
+      "paginas": 2408,
+      "titulo": "In Search of Lost Time",
+      "ano": 1920
+    },
+    {
+      "autor": "Fran\u00e7ois Rabelais",
+      "pais": "France",
+      "imageLink": "images/gargantua-and-pantagruel.jpg",
+      "linguagem": "French",
+      "link": "https://en.wikipedia.org/wiki/Gargantua_and_Pantagruel\n",
+      "paginas": 623,
+      "titulo": "Gargantua and Pantagruel",
+      "ano": 1533
+    },
+    {
+      "autor": "Juan Rulfo",
+      "pais": "Mexico",
+      "imageLink": "images/pedro-paramo.jpg",
+      "linguagem": "Spanish",
+      "link": "https://en.wikipedia.org/wiki/Pedro_P%C3%A1ramo\n",
+      "paginas": 124,
+      "titulo": "Pedro P\u00e1ramo",
+      "ano": 1955
+    },
+    {
+      "autor": "Rumi",
+      "pais": "Sultanate of Rum",
+      "imageLink": "images/the-masnavi.jpg",
+      "linguagem": "Persian",
+      "link": "https://en.wikipedia.org/wiki/Masnavi\n",
+      "paginas": 438,
+      "titulo": "The Masnavi",
+      "ano": 1236
+    },
+    {
+      "autor": "Salman Rushdie",
+      "pais": "United Kingdom, India",
+      "imageLink": "images/midnights-children.jpg",
+      "linguagem": "English",
+      "link": "https://en.wikipedia.org/wiki/Midnight%27s_Children\n",
+      "paginas": 536,
+      "titulo": "Midnight's Children",
+      "ano": 1981
+    },
+    {
+      "autor": "Saadi",
+      "pais": "Persia, Persian Empire",
+      "imageLink": "images/bostan.jpg",
+      "linguagem": "Persian",
+      "link": "https://en.wikipedia.org/wiki/Bustan_(book)\n",
+      "paginas": 298,
+      "titulo": "Bostan",
+      "ano": 1257
+    },
+    {
+      "autor": "Tayeb Salih",
+      "pais": "Sudan",
+      "imageLink": "images/season-of-migration-to-the-north.jpg",
+      "linguagem": "Arabic",
+      "link": "https://en.wikipedia.org/wiki/Season_of_Migration_to_the_North\n",
+      "paginas": 139,
+      "titulo": "Season of Migration to the North",
+      "ano": 1966
+    },
+    {
+      "autor": "Jos\u00e9 Saramago",
+      "pais": "Portugal",
+      "imageLink": "images/blindness.jpg",
+      "linguagem": "Portuguese",
+      "link": "https://en.wikipedia.org/wiki/Blindness_(novel)\n",
+      "paginas": 352,
+      "titulo": "Blindness",
+      "ano": 1995
+    },
+    {
+      "autor": "William Shakespeare",
+      "pais": "England",
+      "imageLink": "images/hamlet.jpg",
+      "linguagem": "English",
+      "link": "https://en.wikipedia.org/wiki/Hamlet\n",
+      "paginas": 432,
+      "titulo": "Hamlet",
+      "ano": 1603
+    },
+    {
+      "autor": "William Shakespeare",
+      "pais": "England",
+      "imageLink": "images/king-lear.jpg",
+      "linguagem": "English",
+      "link": "https://en.wikipedia.org/wiki/King_Lear\n",
+      "paginas": 384,
+      "titulo": "King Lear",
+      "ano": 1608
+    },
+    {
+      "autor": "William Shakespeare",
+      "pais": "England",
+      "imageLink": "images/othello.jpg",
+      "linguagem": "English",
+      "link": "https://en.wikipedia.org/wiki/Othello\n",
+      "paginas": 314,
+      "titulo": "Othello",
+      "ano": 1609
+    },
+    {
+      "autor": "Sophocles",
+      "pais": "Greece",
+      "imageLink": "images/oedipus-the-king.jpg",
+      "linguagem": "Greek",
+      "link": "https://en.wikipedia.org/wiki/Oedipus_the_King\n",
+      "paginas": 88,
+      "titulo": "Oedipus the King",
+      "ano": -430
+    },
+    {
+      "autor": "Stendhal",
+      "pais": "France",
+      "imageLink": "images/le-rouge-et-le-noir.jpg",
+      "linguagem": "French",
+      "link": "https://en.wikipedia.org/wiki/The_Red_and_the_Black\n",
+      "paginas": 576,
+      "titulo": "The Red and the Black",
+      "ano": 1830
+    },
+    {
+      "autor": "Laurence Sterne",
+      "pais": "England",
+      "imageLink": "images/the-life-and-opinions-of-tristram-shandy.jpg",
+      "linguagem": "English",
+      "link": "https://en.wikipedia.org/wiki/The_Life_and_Opinions_of_Tristram_Shandy,_Gentleman\n",
+      "paginas": 640,
+      "titulo": "The Life And Opinions of Tristram Shandy",
+      "ano": 1760
+    },
+    {
+      "autor": "Italo Svevo",
+      "pais": "Italy",
+      "imageLink": "images/confessions-of-zeno.jpg",
+      "linguagem": "Italian",
+      "link": "https://en.wikipedia.org/wiki/Zeno%27s_Conscience\n",
+      "paginas": 412,
+      "titulo": "Confessions of Zeno",
+      "ano": 1923
+    },
+    {
+      "autor": "Jonathan Swift",
+      "pais": "Ireland",
+      "imageLink": "images/gullivers-travels.jpg",
+      "linguagem": "English",
+      "link": "https://en.wikipedia.org/wiki/Gulliver%27s_Travels\n",
+      "paginas": 178,
+      "titulo": "Gulliver's Travels",
+      "ano": 1726
+    },
+    {
+      "autor": "Leo Tolstoy",
+      "pais": "Russia",
+      "imageLink": "images/war-and-peace.jpg",
+      "linguagem": "Russian",
+      "link": "https://en.wikipedia.org/wiki/War_and_Peace\n",
+      "paginas": 1296,
+      "titulo": "War and Peace",
+      "ano": 1867
+    },
+    {
+      "autor": "Leo Tolstoy",
+      "pais": "Russia",
+      "imageLink": "images/anna-karenina.jpg",
+      "linguagem": "Russian",
+      "link": "https://en.wikipedia.org/wiki/Anna_Karenina\n",
+      "paginas": 864,
+      "titulo": "Anna Karenina",
+      "ano": 1877
+    },
+    {
+      "autor": "Leo Tolstoy",
+      "pais": "Russia",
+      "imageLink": "images/the-death-of-ivan-ilyich.jpg",
+      "linguagem": "Russian",
+      "link": "https://en.wikipedia.org/wiki/The_Death_of_Ivan_Ilyich\n",
+      "paginas": 92,
+      "titulo": "The Death of Ivan Ilyich",
+      "ano": 1886
+    },
+    {
+      "autor": "Mark Twain",
+      "pais": "United States",
+      "imageLink": "images/the-adventures-of-huckleberry-finn.jpg",
+      "linguagem": "English",
+      "link": "https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn\n",
+      "paginas": 224,
+      "titulo": "The Adventures of Huckleberry Finn",
+      "ano": 1884
+    },
+    {
+      "autor": "Valmiki",
+      "pais": "India",
+      "imageLink": "images/ramayana.jpg",
+      "linguagem": "Sanskrit",
+      "link": "https://en.wikipedia.org/wiki/Ramayana\n",
+      "paginas": 152,
+      "titulo": "Ramayana",
+      "ano": -450
+    },
+    {
+      "autor": "Virgil",
+      "pais": "Roman Empire",
+      "imageLink": "images/the-aeneid.jpg",
+      "linguagem": "Classical Latin",
+      "link": "https://en.wikipedia.org/wiki/Aeneid\n",
+      "paginas": 442,
+      "titulo": "The Aeneid",
+      "ano": -23
+    },
+    {
+      "autor": "Vyasa",
+      "pais": "India",
+      "imageLink": "images/the-mahab-harata.jpg",
+      "linguagem": "Sanskrit",
+      "link": "https://en.wikipedia.org/wiki/Mahabharata\n",
+      "paginas": 276,
+      "titulo": "Mahabharata",
+      "ano": -700
+    },
+    {
+      "autor": "Walt Whitman",
+      "pais": "United States",
+      "imageLink": "images/leaves-of-grass.jpg",
+      "linguagem": "English",
+      "link": "https://en.wikipedia.org/wiki/Leaves_of_Grass\n",
+      "paginas": 152,
+      "titulo": "Leaves of Grass",
+      "ano": 1855
+    },
+    {
+      "autor": "Virginia Woolf",
+      "pais": "United Kingdom",
+      "imageLink": "images/mrs-dalloway.jpg",
+      "linguagem": "English",
+      "link": "https://en.wikipedia.org/wiki/Mrs_Dalloway\n",
+      "paginas": 216,
+      "titulo": "Mrs Dalloway",
+      "ano": 1925
+    },
+    {
+      "autor": "Virginia Woolf",
+      "pais": "United Kingdom",
+      "imageLink": "images/to-the-lighthouse.jpg",
+      "linguagem": "English",
+      "link": "https://en.wikipedia.org/wiki/To_the_Lighthouse\n",
+      "paginas": 209,
+      "titulo": "To the Lighthouse",
+      "ano": 1927
+    },
+    {
+      "autor": "Marguerite Yourcenar",
+      "pais": "France/Belgium",
+      "imageLink": "images/memoirs-of-hadrian.jpg",
+      "linguagem": "French",
+      "link": "https://en.wikipedia.org/wiki/Memoirs_of_Hadrian\n",
+      "paginas": 408,
+      "titulo": "Memoirs of Hadrian",
+      "ano": 1951
+    }
+  ]
+}

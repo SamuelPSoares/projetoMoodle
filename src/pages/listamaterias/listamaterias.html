@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Listagem de matérias</title>
+</head>
+<body>
+<h1>{{nome}}</h1>
+
+<img src={{pic}} width="150" height="150">
+
+<h2> materias </h2>
+<ul>
+  <li *ngFor= "let mat of materias" >{{mat.fullname}}
+  </li>
+</ul>
+</body>
+</html>

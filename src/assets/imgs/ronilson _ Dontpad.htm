@@ -1,0 +1,80 @@
+
+<!-- saved from url=(0027)http://dontpad.com/ronilson -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<link rel="stylesheet" type="text/css" href="./ronilson _ Dontpad_files/dontpad-0.05.css">
+		
+		<title>ronilson | Dontpad</title>
+	</head>
+	<body>
+
+		<div id="noConnectionAlert" class="hide" style="display: none;">
+			Not Connected. Trying every two seconds.
+		</div>
+			
+		<div id="menu-div" style="display: block; width: 97px;">
+			<ul id="menu">				
+			<li><a href="http://dontpad.com/ronilson/android">android</a></li><li><a href="http://dontpad.com/ronilson/angular">angular</a></li></ul>
+		</div>
+
+		<div id="text-div" align="center" style="width: 1306px; height: 100%;">
+			<textarea id="text">import { Component, OnInit } from '@angular/core';
+import { HttpClient} from '@angular/common/http';
+
+@Component({
+  selector: 'app-perfil',
+  templateUrl: './perfil.component.html',
+  styleUrls: ['./perfil.component.css']
+})
+export class ProfileComponent implements OnInit {
+
+  public token:string = "";
+  public fullname: string ="";
+  public imgperfil: string = "";
+  public user: string = "";
+
+  constructor(private httpClient:HttpClient) {
+    let tokenGet = localStorage.getItem("token")
+    this.token = tokenGet
+
+
+    this.getProfile()
+
+   }
+
+  ngOnInit() {
+  }
+  getProfile(){
+    this.httpClient.get(`https://lms.infnet.edu.br/moodle/webservice/rest/server.php?wstoken=${this.token}&amp;moodlewsrestformat=json&amp;wsfunction=core_webservice_get_site_info`)
+    .subscribe(
+      (data:any) =&gt; {
+
+          console.log(data);
+          this.fullname = data.fullname;
+          this.imgperfil = data.userpictureurl;
+          this.user = data.userid
+          console.log(this.user);
+        
+         
+        localStorage.setItem("userid", this.user)
+      }
+    )
+  }
+}
+</textarea>
+		</div>
+		
+		<input type="hidden" name="lastUpdate" id="lastUpdate" value="1523996996375">
+		<script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript" src="./ronilson _ Dontpad_files/jquery.min.js"></script>
+		<script type="text/javascript" src="./ronilson _ Dontpad_files/dontpad-0.07.js" charset="UTF-8"></script>
+		<script type="text/javascript">
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-23517037-1']);
+		  _gaq.push(['_trackPageview']);
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+		</script>
+	
+<div id="acfifjfajpekbmhmjppnmmjgmhjkildl" class="acfifjfajpekbmhmjppnmmjgmhjkildl" style="display: none;"></div></body></html>

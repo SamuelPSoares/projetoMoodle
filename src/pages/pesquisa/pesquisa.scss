@@ -1,0 +1,25 @@
+page-pesquisa {
+
+  #logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+  }
+
+  .navbar { color: #488aff;
+  }
+
+  ion-content {
+    text-align: center;
+    margin-top: 5em;
+  }
+  ion-icon{
+    font-weight: 100px
+  ;
+  }
+  .scroll-content {
+    background: url(../../assets/imgs/background-wallpapers-32_NRz0mTd.jpg) no-repeat center center fixed;
+
+  }
+}
